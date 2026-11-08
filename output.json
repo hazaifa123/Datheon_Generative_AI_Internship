@@ -1,0 +1,13 @@
+{
+    "full_name": "M. Hazaifa",
+    "email": "hazaifa@example.com",
+    "skills": [
+        "Python",
+        "LangChain",
+        "AI agents",
+        "Docker",
+        "Supabase",
+        "Flutter"
+    ],
+    "summary": "M. Hazaifa is a Software Engineer based in Lahore, Pakistan, specializing in Python development, LangChain, and AI agents. He has practical experience with tools like Docker, Supabase, and Flutter for various applications."
+}
