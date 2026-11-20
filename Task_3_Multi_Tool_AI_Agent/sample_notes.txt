@@ -1,0 +1,6 @@
+Project Budget & Cloud Cost Estimates (Q4 2026)
+- GPU Instance Rate: $1.85 per hour
+- Planned Training Duration: 48 hours
+- Vector Database Storage Fee: $25.00 flat monthly fee
+- API Buffer Allocation: $40.00
+Note: Check current USD to PKR exchange rate via web search to compute the total cost in PKR.
